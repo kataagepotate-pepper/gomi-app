@@ -1,0 +1,11 @@
+node_modules
+dist
+.localdb*
+.netlify
+.env*
+
+# 公開しない素材（パソコンの中には残す）
+# かまた祭の公式素材（ロゴ・キャラクター・イラスト）は学校・実行委員会のもの
+public/fes/
+# アプリのアイコンも公式キャラクターの絵なので公開しない
+public/icons/
